@@ -20,6 +20,14 @@ Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https
 
 ## Construído com:
 
+* [NextJS](https://nextjs.org/) -The React Framework.
+
+* [TailwindCSS](https://tailwindcss.com/) - Uma  estrutura CSS de utilidade para criar designs personalizados rapidamente.
+
+* [Figma] (https://figma.com/) - Ferramenta de prototipagem online.
+
+* [PurgeCSS] (https://purgecss.com/) - Remover CSS não utilizado.
+
 ## Autor:
 
 * **João Soares** - [LinkedIn](https://www.linkedin.com/in/joão-soares-45363bb7)
