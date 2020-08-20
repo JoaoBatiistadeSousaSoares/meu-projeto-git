@@ -24,9 +24,9 @@ Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https
 
 * [TailwindCSS](https://tailwindcss.com/) - Uma  estrutura CSS de utilidade para criar designs personalizados rapidamente.
 
-* [Figma] (https://figma.com/) - Ferramenta de prototipagem online.
+* [Figma](https://figma.com/) - Ferramenta de prototipagem online.
 
-* [PurgeCSS] (https://purgecss.com/) - Remover CSS não utilizado.
+* [PurgeCSS](https://purgecss.com/) - Remover CSS não utilizado.
 
 ## Autor:
 
